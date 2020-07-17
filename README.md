@@ -8,7 +8,8 @@ Xampp application installed
 
 
 # To make the code work 
-Create a folder in the C:\xampp\htdocs folder and navigate to that directory using your browser and run the index.php file to run the application.
+Create a folder at C:\xampp\htdocs in your hard drive and move the main.php file there.
+Then navigate to the directory where you placed your main.php file using your browser and run the main.php file to start the application.
 
 # LICENSE:
 NOT FOR COMMERCIAL USE If you intend to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my code please ask my permission.
