@@ -1,4 +1,4 @@
-# SQL Query Application-
+# Database Management System
 
 Description-A SQL Query Application in which users can perform queries on a SQL database. Users can select the type of query and fill in the database and table names.Can also select tables and display the contents to the user and also record all the created databases and tables.
 
